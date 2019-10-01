@@ -42,3 +42,5 @@ jspm_packages
 #ignore idea settings
 .idea/
 .vscode/
+
+package-lock.json
